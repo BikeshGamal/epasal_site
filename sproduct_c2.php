@@ -14,11 +14,11 @@
         <a style="text-decoration:none;" href="#"><h2 style="color:rgb(8, 148, 20);display:inline-block">e</h2><h2 style="display:inline-block;">PASA</h2><h1 style="color:rgb(50, 7, 193);display:inline-block">L</h1></a>
         <div>
             <ul id="navbar">
-                <li><a  href="index.php">Home</a></li>
+                <li><a  href="index.html">Home</a></li>
                 <li><a class="active" href="shop.php">Shop</a></li>
-                <li><a href="about.php">About Us</a></li>
-                <li><a href="contact.php">Contact</a></li>
-                <li><a href="cart.php"><i class="fa fa-shopping-cart"></i></a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="cart.html"><i class="fa fa-shopping-cart"></i></a></li>
             </ul>
         </div>
     </section>
@@ -62,7 +62,7 @@
         <h2>Feature Product</h2>
         <p>summer collection new modern design</p>
         <div class="pro-container">
-            <div class="pro" onclick="window.location.href='sproduct.php'">
+            <div class="pro" onclick="window.location.href='sproduct.html'">
                 <img src="img/products/f1.jpg" alt="">
             <div class="des">
                 <span>Adidas</span>
@@ -79,7 +79,7 @@
             
             <a href="#"><i class="fas fa-shopping-cart cart"></i></a>
         </div>
-        <div class="pro" onclick="window.location.href='sproduct1.php'">
+        <div class="pro" onclick="window.location.href='sproduct1.html'">
             <img src="img/products/f2.jpg" alt="">
         <div class="des">
             <span>Adidas</span>
@@ -96,7 +96,7 @@
         
         <a href="#"><i class="fas fa-shopping-cart cart"></i></a>
     </div>
-    <div class="pro" onclick="window.location.href='sproduct2.php'">
+    <div class="pro" onclick="window.location.href='sproduct2.html'">
         <img src="img/products/f3.jpg" alt="">
     <div class="des">
         <span>Adidas</span>
@@ -113,7 +113,7 @@
     
     <a href="#"><i class="fas fa-shopping-cart cart"></i></a>
 </div>
-<div class="pro" onclick="window.location.href='sproduct3.php'">
+<div class="pro" onclick="window.location.href='sproduct3.html'">
     <img src="img/products/f4.jpg" alt="">
 <div class="des">
     <span>Adidas</span>
@@ -133,7 +133,7 @@
     </div>
 
         <div class="pro-container">
-            <div class="pro" onclick="window.location.href='sproduct_c.php'">
+            <div class="pro" onclick="window.location.href='sproduct_c.html'">
                 <img src="img/products/n1.jpg" alt="">
             <div class="des">
                 <span>Adidas</span>
@@ -150,7 +150,7 @@
             
             <a href="#"><i class="fas fa-shopping-cart cart"></i></a>
         </div>
-        <div class="pro" onclick="window.location.href='sproduct_c1.php'">
+        <div class="pro" onclick="window.location.href='sproduct_c1.html'">
             <img src="img/products/n2.jpg" alt="">
         <div class="des">
             <span>Adidas</span>
@@ -167,7 +167,7 @@
         
         <a href="#"><i class="fas fa-shopping-cart cart"></i></a>
     </div>
-    <div class="pro" onclick="window.location.href='sproduct_c2.php'">
+    <div class="pro" onclick="window.location.href='sproduct_c2.html'">
         <img src="img/products/n3.jpg" alt="">
     <div class="des">
         <span>Adidas</span>
@@ -184,7 +184,7 @@
     
     <a href="#"><i class="fas fa-shopping-cart cart"></i></a>
 </div>
-<div class="pro" onclick="window.location.href='sproduct_c3.php'">
+<div class="pro" onclick="window.location.href='sproduct_c3.html'">
     <img src="img/products/n4.jpg" alt="">
 <div class="des">
     <span>Adidas</span>
