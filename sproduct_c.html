@@ -53,7 +53,18 @@
             </select>
             <input type="number" value="1">
             <button class="normal" onclick="window.location.href='ca.html'">Add to cart</button>
-            <button class="normal" onclick="window.location.href='buy.html'">Buy Now</button>
+            <form action="https://uat.esewa.com.np/epay/main" method="POST" style="display:inline-block">
+    <input value="780" name="tAmt" type="hidden">
+    <input value="750" name="amt" type="hidden">
+    <input value="10" name="txAmt" type="hidden">
+    <input value="10" name="psc" type="hidden">
+    <input value="10" name="pdc" type="hidden">
+    <input value="EPAYTEST" name="scd" type="hidden">
+    <input value="p009" name="pid" type="hidden">
+    <input value="https://bikeshgamal.github.io/epasal_site/success.html?q=su" type="hidden" name="su">
+    <input value="https://bikeshgamal.github.io/epasal_site/failed.html?q=fu" type="hidden" name="fu">
+    <button class="normal" >Buy Now</button>
+    </form>
             <h4>Product Details</h4>
             <span>Victory T-Shirt is a product of Royal Robe Apparel. This product reminds our customers that we have Victory in Christ and the battle has already been won! We don't for Victory, we fight from Victory! The Victory T-Shirt is the first line for the "I Am Royal" movement from Royal Robe Apparel.</span>
         </div>
